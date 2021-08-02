@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.exe.config
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.exe
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.pdb
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.exe
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.pdb
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.exe.config
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.exe
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Release\ASCII.pdb
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.csproj.AssemblyReference.cache
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.csproj.CoreCompileInputs.cache
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.exe
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Release\ASCII.pdb

@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\ASCII\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\User\source\repos\ASCII\ASCII\bin\Debug\ASCII.exe
+C:\Users\User\source\repos\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\User\source\repos\ASCII\ASCII\obj\Debug\ASCII.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ASCII\ASCII\obj\Debug\ASCII.exe
+C:\Users\User\source\repos\ASCII\ASCII\obj\Debug\ASCII.pdb
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.exe
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.exe
+C:\Users\User\Documents\Program\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.pdb
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.exe.config
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.exe
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\bin\Debug\ASCII.pdb
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.csproj.AssemblyReference.cache
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.exe
+D:\Мои проекты\C#\My Projects\ASCII\ASCII\obj\Debug\ASCII.pdb
